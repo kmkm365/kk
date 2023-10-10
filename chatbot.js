@@ -4,7 +4,7 @@ const sendButton = document.querySelector('#user-input button');
 const saveAnswers = document.querySelector('#saveAnswers');
 const Modalbox = document.querySelector('#modalbox');
 
-const apiKey = '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';
+const apiKey = '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';
 const apiEndpoint = 'https://api.openai.com/v1/chat/completions'
 
 let i = 0;
